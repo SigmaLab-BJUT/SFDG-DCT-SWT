@@ -3,7 +3,7 @@
 ## 🏗️ Framework
 
 <p align="center">
-  <img src="../assets/sfdg_framework.png" alt="SFDG Framework" width="800"/>
+  <img src="/assets/sfdg_framework.png" alt="SFDG Framework" width="800"/>
 </p>
 
 ## 🔧 Installation
