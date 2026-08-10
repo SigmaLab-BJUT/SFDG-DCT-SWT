@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # SFDG: Dynamic Graph Learning with Content-guided Spatial-Frequency Relation Reasoning for Deepfake Detection
 
 ## 🏗️ Framework
